@@ -1,0 +1,26 @@
+{
+  "name": "social-media-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tamirahawkins97-ui/social-media-api.git"
+  },
+  "keywords": [],
+  "author": "Tamira Hawkins",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/tamirahawkins97-ui/social-media-api/issues"
+  },
+  "homepage": "https://github.com/tamirahawkins97-ui/social-media-api#readme",
+  "dependencies": {
+    "dotenv": "^18.0.3",
+    "express": "^5.2.1",
+    "mongodb": "^7.6.0"
+  }
+}
